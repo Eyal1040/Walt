@@ -1,3 +1,3 @@
 # Walt
-Walt micro service using java spring. \n
-Please import the project as Maven project.
+Walt micro service using java spring. 
+* Please import "walt-master" directory as Maven project.
